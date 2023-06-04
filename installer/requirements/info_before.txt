@@ -1,0 +1,6 @@
+Drifter Docs is The Only Application That Can Open Drifter Documents (.drifterdoc) The Offical Text Documents of Voltaccept
+
+**CREDITS**
+App Coder - https://visualstudio.microsoft.com/vs/
+Icon Maker - https://icons8.com/lunacy
+Quote Download - https://warframe.fandom.com/wiki/The_Duviri_Paradox/Transcript
